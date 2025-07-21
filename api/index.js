@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 let flights = [
   {
     id: uuidv4(),
-    airline: "Delta Air Lines",
+    airline: "Delta Lines",
     flightNumber: "DL1234",
     departureAirport: "JFK",
     departureCity: "New York",
